@@ -27,5 +27,10 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/suhanaparvints/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suhanaparvints/Leetcode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/suhanaparvints/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
